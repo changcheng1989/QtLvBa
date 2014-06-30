@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="QtLvBa">
+    <file>46f1a88324599b806e54f10cc3f2a155.jpg</file>
+    <file>09756531db921ec02ce72f9fa21cfdaf.jpg</file>
+    <file>6799358709f918f3e9f398837f517229.jpg</file>
+    <file>a99e1c9e25dd3e3a436e0c9a1c3a9ee0.jpg</file>
+    <file>1.jpg</file>
+    <file>137.bmp</file>
+    <file>00001[102x120x8BPP].png</file>
+    <file>00002[102x120x8BPP].png</file>
+    <file>00003[102x120x8BPP].png</file>
+    <file>00004[102x120x8BPP].png</file>
+    <file>00005[102x120x8BPP].png</file>
+    <file>00006[102x120x8BPP].png</file>
+    <file>00007[102x120x8BPP].png</file>
+    <file>00008[102x120x8BPP].png</file>
+    <file>00009[102x120x8BPP].png</file>
+    <file>00010[102x120x8BPP].png</file>
+    <file>00011[51x20x8BPP].png</file>
+    <file>00012[51x20x8BPP].png</file>
+    <file>00014[51x20x8BPP].png</file>
+    <file>00015[51x20x8BPP].png</file>
+    <file>00016[51x20x8BPP].png</file>
+  </qresource>
+</RCC>
