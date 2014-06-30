@@ -36,3 +36,4 @@ SOURCES += main.cpp qtlvba.cpp \
     passwordcheck2.cpp \
     screenlogview.cpp
 RESOURCES += qtlvba.qrc
+RC_FILE = myapp.rc
