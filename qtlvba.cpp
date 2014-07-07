@@ -11,6 +11,7 @@ QtLvBa::QtLvBa(QWidget *parent, Qt::WFlags flags)
     connect(ui.pushButton,SIGNAL(clicked()),this,SLOT(showFeedbackWidget()));
     connect(ui.pushButton_5,SIGNAL(clicked()),this,SLOT(showRecoverPassword()));
     connect(ui.pushButton_2,SIGNAL(clicked()),this,SLOT(showLogView()));
+    connect(ui.pushButton_4,SIGNAL(clicked()),this,SLOT(showPasswordCheck3()));
 }
 
 QtLvBa::~QtLvBa()
@@ -91,4 +92,9 @@ void QtLvBa::showLogView()
 {
     logView = new LogView;
     logView->show();
+}
+void QtLvBa::showPasswordCheck3()
+{
+    passwordCheck3 = new PasswordCheck3;
+    passwordCheck3->show();
 }

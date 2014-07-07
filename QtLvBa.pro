@@ -16,7 +16,8 @@ HEADERS += qtlvba.h \
     systemsetting.h \
     textlogview.h \
     passwordcheck2.h \
-    screenlogview.h
+    screenlogview.h \
+    passwordcheck3.h
 FORMS += qtlvba.ui \
     feedbackwidget.ui \
     recoverpassword.ui \
@@ -25,7 +26,8 @@ FORMS += qtlvba.ui \
     systemsetting.ui \
     textlogview.ui \
     passwordcheck2.ui \
-    screenlogview.ui
+    screenlogview.ui \
+    passwordcheck3.ui
 SOURCES += main.cpp qtlvba.cpp \
     feedbackwidget.cpp \
     recoverpassword.cpp \
@@ -34,6 +36,8 @@ SOURCES += main.cpp qtlvba.cpp \
     systemsetting.cpp \
     textlogview.cpp \
     passwordcheck2.cpp \
-    screenlogview.cpp
+    screenlogview.cpp \
+    passwordcheck3.cpp
 RESOURCES += qtlvba.qrc
 RC_FILE = myapp.rc
+

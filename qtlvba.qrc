@@ -1,5 +1,9 @@
 <RCC>
-  <qresource prefix="QtLvBa">
+  <qresource prefix="/QtLvBa">
+    <file>QQ截图20140707152229.png</file>
+    <file>QQ截图20140707143848.png</file>
+    <file>QQ截图20140701091425.png</file>
+    <file>C:/Users/changcheng/Pictures/QQ截图20140701091425.png</file>
     <file>46f1a88324599b806e54f10cc3f2a155.jpg</file>
     <file>09756531db921ec02ce72f9fa21cfdaf.jpg</file>
     <file>6799358709f918f3e9f398837f517229.jpg</file>
@@ -21,5 +25,8 @@
     <file>00014[51x20x8BPP].png</file>
     <file>00015[51x20x8BPP].png</file>
     <file>00016[51x20x8BPP].png</file>
+    <file>preferences-system-4.png</file>
+    <file>folder-blue.png</file>
+    <file>QQ截图20140704103152.png</file>
   </qresource>
 </RCC>
