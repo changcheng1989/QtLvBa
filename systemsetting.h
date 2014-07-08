@@ -16,11 +16,6 @@ private:
     Ui::SystemSetting ui;
     QMap<QTreeWidgetItem*, int> m_map;
 
-
-    QPushButton*  buttonArray[8][25];
-    QHBoxLayout* layout[8];
-    QVBoxLayout* vLayout;
-
 };
 
 #endif // SYSTEMSETTING_H
